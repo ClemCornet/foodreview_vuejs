@@ -1,6 +1,7 @@
 # food_review
 
 > site d'avis sur les restaurants réalisé avec Vue.js
+Demo ici : http://foodreview.clementcornet.fr/
 
 ## Build Setup
 
