@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # food_review
 
 > site d'avis sur les restaurants réalisé avec Vue.js
